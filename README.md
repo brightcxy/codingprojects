@@ -1,4 +1,4 @@
-##Coding Projects
+#Coding Projects
 
 **Why making this project?**
 I had experience doing 3.js project, so I decided to use 3.js as my project library.
